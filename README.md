@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Engineer | B.Tech IT Student
 
-I'm **Vishal **, a first-year **B.Tech Information Technology** student at **St. Joseph's College of Engineering, OMR**.
+I'm Vishal , a first-year **B.Tech Information Technology** student at **St. Joseph's College of Engineering, OMR**.
 
 I'm an aspiring software engineer interested in **software development and web development**, currently building my programming fundamentals and exploring different areas of technology.
 
